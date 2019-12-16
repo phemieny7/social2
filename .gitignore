@@ -1,2 +1,4 @@
 node_modules/
-services/
+services/imageUpload.js
+services/ImageUpload.js
+services/ImageUpload.js
